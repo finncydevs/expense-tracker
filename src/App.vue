@@ -90,4 +90,9 @@ const saveToLocalStorage = () => {
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.container {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 20px;
+}
+</style>
